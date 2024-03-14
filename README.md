@@ -45,13 +45,8 @@ After submitting a PDB ID, a corresponding folder is created within the "pdb" di
 - The analysis of active sites in structurally characterized metalloproteins revealed significant insights into the coordination sphere of these proteins. 
 - For the protein "1si4" (Human hemoglobin A2), four active sites corresponding to each chain were identified, showcasing an octahedral geometry with a coordination number of 6. This geometry allows for the visualization of multiple active sites within the software, enhancing the understanding of protein structure and function.
 
-![Active Site 1](https://pplx-res.cloudinary.com/image/upload/v1710439367/user_uploads/wyjlzljhm/image.jpg)
+![Active Sites for "1si4"](https://pplx-res.cloudinary.com/image/upload/v1710439367/user_uploads/wyjlzljhm/image.jpg)
 
-![Active Site 2](https://pplx-res.cloudinary.com/image/upload/v1710439367/user_uploads/wyjlzljhm/image.jpg)
-
-![Active Site 3](https://pplx-res.cloudinary.com/image/upload/v1710439367/user_uploads/wyjlzljhm/image.jpg)
-
-![Active Site 4](https://pplx-res.cloudinary.com/image/upload/v1710439367/user_uploads/wyjlzljhm/image.jpg)
 
 ## Conclusion and Future Works
 
