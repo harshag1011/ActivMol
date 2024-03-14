@@ -6,7 +6,7 @@ ActivMol is a software tool designed to visualize the active sites of structural
 
 ## Video Demo
 
-A video demonstration of Project-ActivMol can be found [here](https://drive.google.com/file/d/1yNi-xEyisEsdM72UPDX3zPqhwck-W/view?usp=share_link).
+A video demonstration of Project-ActivMol can be found [here](https://drive.google.com/file/d/1yNi-x__EyisEsdM72UPDX3zPq-hwcK-W/view?usp=drive_link).
 
 To install project:
 pip install -r requirements.txt
@@ -38,8 +38,5 @@ Activate the keyboard controls by clicking once inside the GLWidget (black scree
 
 ## Active Site Information
 
-After submitting a PDB ID, a corresponding folder is created within the "pdb" directory containing the PDB file and active site information. For example, submitting "1si4" creates a "pdb1si4" folder with files `Pdb1si4.ent` and `1si4`, the latter detailing the active site interactions[1].
+After submitting a PDB ID, a corresponding folder is created within the "pdb" directory containing the PDB file and active site information. For example, submitting "1si4" creates a "pdb1si4" folder with files `Pdb1si4.ent` and `1si4`, the latter detailing the active site interactions.
 
-![Visualization Window](https://cdn.mathpix.com/cropped/2024_03_14_850cce79f38d605d0f39g-2.jpg?height=848&width=1628&top_left_y=796&top_left_x=304)
-
-![Active Site Information](https://cdn.mathpix.com/cropped/2024_03_14_850cce79f38d605d0f39g-4.jpg?height=872&width=1071&top_left_y=320&top_left_x=423)
