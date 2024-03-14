@@ -4,7 +4,7 @@
 
 ActivMol is a software tool designed to visualize the active sites of structurally characterized Metalloproteins. It is built using Python and the PyOpenGL library, with protein structure information parsed from PDB files using the Biopython library. The user interface is implemented with PyQt5, allowing for interactive visualization.
 
-![image](https://github.com/harshag1011/ActivMol/assets/155796936/a17ec750-3fde-4afa-8c59-24ddc5a13cd5)
+![ActivMol main screen](https://github.com/harshag1011/ActivMol/assets/155796936/a17ec750-3fde-4afa-8c59-24ddc5a13cd5)
 
 ## Video Demo
 
@@ -42,15 +42,15 @@ Activate the keyboard controls by clicking once inside the GLWidget (black scree
 
 After submitting a PDB ID, a corresponding folder is created within the "pdb" directory containing the PDB file and active site information. For example, submitting "1si4" creates a "pdb1si4" folder with files `Pdb1si4.ent` and `1si4`, the latter detailing the active site interactions.
 
-![Active sites](https://pplx-res.cloudinary.com/image/upload/v1710439706/user_uploads/hchcwzzju/image.jpg)
-![Coordination Sphere Information](https://pplx-res.cloudinary.com/image/upload/v1710439752/user_uploads/kiezjmlwc/image.jpg)
+![Active sites details](https://github.com/harshag1011/ActivMol/assets/155796936/7a1ff720-bd98-4a6f-84d3-d569573f9c30)
+![Coordination sphere details](https://github.com/harshag1011/ActivMol/assets/155796936/b189aa27-2513-4968-b5c7-84876513940f)
 
 ## Results
 
 - The analysis of active sites in structurally characterized metalloproteins revealed significant insights into the coordination sphere of these proteins. 
 - For the protein "1si4" (Human hemoglobin A2), four active sites corresponding to each chain were identified, showcasing an octahedral geometry with a coordination number of 6. This geometry allows for the visualization of multiple active sites within the software, enhancing the understanding of protein structure and function.
 
-![Active Sites for "1si4"](https://pplx-res.cloudinary.com/image/upload/v1710439367/user_uploads/wyjlzljhm/image.jpg)
+![Active Sites for "1si4"](https://github.com/harshag1011/ActivMol/assets/155796936/d130ae68-e439-4583-9430-383c5a03c65f)
 
 
 ## Conclusion and Future Works
