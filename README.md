@@ -4,6 +4,8 @@
 
 ActivMol is a software tool designed to visualize the active sites of structurally characterized Metalloproteins. It is built using Python and the PyOpenGL library, with protein structure information parsed from PDB files using the Biopython library. The user interface is implemented with PyQt5, allowing for interactive visualization.
 
+![image](https://github.com/harshag1011/ActivMol/assets/155796936/a17ec750-3fde-4afa-8c59-24ddc5a13cd5)
+
 ## Video Demo
 
 A video demonstration of Project-ActivMol can be found [here](https://drive.google.com/file/d/1yNi-x__EyisEsdM72UPDX3zPq-hwcK-W/view?usp=drive_link).
@@ -39,6 +41,9 @@ Activate the keyboard controls by clicking once inside the GLWidget (black scree
 ## Active Site Information
 
 After submitting a PDB ID, a corresponding folder is created within the "pdb" directory containing the PDB file and active site information. For example, submitting "1si4" creates a "pdb1si4" folder with files `Pdb1si4.ent` and `1si4`, the latter detailing the active site interactions.
+
+![Active sites](https://pplx-res.cloudinary.com/image/upload/v1710439706/user_uploads/hchcwzzju/image.jpg)
+![Coordination Sphere Information](https://pplx-res.cloudinary.com/image/upload/v1710439752/user_uploads/kiezjmlwc/image.jpg)
 
 ## Results
 
